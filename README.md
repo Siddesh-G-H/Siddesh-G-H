@@ -4,6 +4,8 @@
 - <br>
 - 🌱 I’m currently learning javascript
 
+Changed in V S Code
+
 
 <!---
 Siddesh-G-H/Siddesh-G-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
